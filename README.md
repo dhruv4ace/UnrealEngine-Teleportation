@@ -12,4 +12,4 @@ The teleportation ability system in this project allows the player character to 
 
 The teleportation ability system is implemented using Blueprints in Unreal Engine 5. The system uses ray tracing to detect the location of the reticle and calculates the destination for the teleportation.
 
-<a href="https://imgflip.com/gif/7gjry7"><im src="https://imgflip.com/7gjry7.gif"/></a>
+<a href="https://imgflip.com/gif/7gjry7"><img src="https://imgflip.com/7gjry7.gif"/></a>
